@@ -1,0 +1,113 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: CataRhex3
+layout_spectrum: 0.9794122762978077
+typography_spectrum: 0.7877857487183064
+color:
+  brandStrength: 0.9565877504646778
+  lightness: 0.23668426321819425
+  saturation: 0.5869344959501177
+  rhythmicContrast: 0.40077762631699443
+  brandColors:
+    - '#F1DEA4'
+    - '#FEFEFE'
+    - '#1C1D22'
+    - '#9F9059'
+    - '#6A5B3C'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPLRvvRNouqGSKUvRi-xKuL8jxeaNZE0Vec&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwM-BRKeQJ-Q&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FwM-BRKeQJ-Q%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: MED SRL
+          url: 'https://www.youtube.com/user/MEDSRL'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: youtu.be
+      keywords:
+        - ''
+      description: Uploaded by MED SRL on 2014-03-10.
+      '@type': VideoObject
+      app_links:
+        - url: >-
+            vnd.youtube://www.youtube.com/watch?v=wM-BRKeQJ-Q&list=PLRvvRNouqGSKUvRi-xKuL8jxeaNZE0Vec&feature=applinks
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: >-
+            vnd.youtube://www.youtube.com/watch?v=wM-BRKeQJ-Q&list=PLRvvRNouqGSKUvRi-xKuL8jxeaNZE0Vec&feature=applinks
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: >-
+            https://www.youtube.com/watch?v=wM-BRKeQJ-Q&list=PLRvvRNouqGSKUvRi-xKuL8jxeaNZE0Vec&feature=applinks
+          type: web
+          namespace: ai
+        - url: >-
+            vnd.youtube://www.youtube.com/watch?v=wM-BRKeQJ-Q&list=PLRvvRNouqGSKUvRi-xKuL8jxeaNZE0Vec&feature=applinks
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: >-
+            vnd.youtube://www.youtube.com/watch?v=wM-BRKeQJ-Q&list=PLRvvRNouqGSKUvRi-xKuL8jxeaNZE0Vec&feature=applinks
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: >-
+            https://www.youtube.com/watch?v=wM-BRKeQJ-Q&list=PLRvvRNouqGSKUvRi-xKuL8jxeaNZE0Vec
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: >-
+            http/www.youtube.com/watch?v=wM-BRKeQJ-Q&list=PLRvvRNouqGSKUvRi-xKuL8jxeaNZE0Vec
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: >-
+            vnd.youtube/www.youtube.com/watch?v=wM-BRKeQJ-Q&list=PLRvvRNouqGSKUvRi-xKuL8jxeaNZE0Vec
+          package: '544007664'
+          namespace: google
+          type: ios
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://youtu.be/wM-BRKeQJ-Q?list=PLRvvRNouqGSKUvRi-xKuL8jxeaNZE0Vec'
+      title: 'Uso del easytip 2,8mm de Oertli, según el Dr. Haldipurkar - MED SRL'
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: CataRhex 3 Phaco
+description: Everything you ever wanted to know about the CataRhex3 from OERTLI
+purpose:
+  - type: external
+    url: 'http://medisurg.com/about/'
+    label: 'http://medisurg.com/about/'
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/86f64469-8169-4a8e-8d2b-c11df0ffb2f5.png
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ffa3a77-854f-43ad-b65d-e586839e949b.png
+author:
+  name: John Weymouth
+  email: john@medisurg.com
+analytics:
+  twitter: MEDiSURG
