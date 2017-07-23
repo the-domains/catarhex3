@@ -33,7 +33,7 @@ navigation:
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ffa3a77-854f-43ad-b65d-e586839e949b.png
-title: CataRhex 3 Phaco
+title: CataRhex 3 Phaco System
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
